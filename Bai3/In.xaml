@@ -1,0 +1,17 @@
+﻿<Window x:Class="Bai3.In"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bai3"
+        mc:Ignorable="d"
+        Title="In" Height="450" Width="800">
+    <Grid>
+        <StackPanel Margin="20">
+            <TextBlock Text="Thông tin" FontSize="16" FontWeight="Bold" TextAlignment="Center" Margin="0,0,0,10"/>
+            <TextBlock Name="lblName" Text="Họ và tên: " FontSize="14"/>
+            <TextBlock Name="lblAge" Text="Tuổi: " FontSize="14"/>
+            <TextBlock Name="lblGioiTinh" Text="Giới Tính: " FontSize="14"/>
+        </StackPanel>
+    </Grid>
+</Window>
