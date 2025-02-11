@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\quach\\OneDrive\\Workspace\\DNET\\Bai9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94E61456-488D-4B65-A125-F5114B73ED61}|Bai4\\Bai4.csproj|c:\\users\\quach\\onedrive\\workspace\\dnet\\bai9\\bai4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E61456-488D-4B65-A125-F5114B73ED61}|Bai4\\Bai4.csproj|solutionrelative:bai4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E61456-488D-4B65-A125-F5114B73ED61}|Bai4\\Bai4.csproj|c:\\users\\quach\\onedrive\\workspace\\dnet\\bai9\\bai4\\inhoadon.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E61456-488D-4B65-A125-F5114B73ED61}|Bai4\\Bai4.csproj|solutionrelative:bai4\\inhoadon.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E61456-488D-4B65-A125-F5114B73ED61}|Bai4\\Bai4.csproj|c:\\users\\quach\\onedrive\\workspace\\dnet\\bai9\\bai4\\inhoadon.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{94E61456-488D-4B65-A125-F5114B73ED61}|Bai4\\Bai4.csproj|solutionrelative:bai4\\inhoadon.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E61456-488D-4B65-A125-F5114B73ED61}|Bai4\\Bai4.csproj|c:\\users\\quach\\onedrive\\workspace\\dnet\\bai9\\bai4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{94E61456-488D-4B65-A125-F5114B73ED61}|Bai4\\Bai4.csproj|solutionrelative:bai4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E61456-488D-4B65-A125-F5114B73ED61}|Bai4\\Bai4.csproj|c:\\users\\quach\\onedrive\\workspace\\dnet\\bai9\\bai4\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E61456-488D-4B65-A125-F5114B73ED61}|Bai4\\Bai4.csproj|solutionrelative:bai4\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InHoaDon.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\quach\\OneDrive\\Workspace\\DNET\\Bai9\\Bai4\\InHoaDon.xaml.cs",
+              "RelativeDocumentMoniker": "Bai4\\InHoaDon.xaml.cs",
+              "ToolTip": "C:\\Users\\quach\\OneDrive\\Workspace\\DNET\\Bai9\\Bai4\\InHoaDon.xaml.cs",
+              "RelativeToolTip": "Bai4\\InHoaDon.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T10:42:12.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InHoaDon.xaml",
+              "DocumentMoniker": "C:\\Users\\quach\\OneDrive\\Workspace\\DNET\\Bai9\\Bai4\\InHoaDon.xaml",
+              "RelativeDocumentMoniker": "Bai4\\InHoaDon.xaml",
+              "ToolTip": "C:\\Users\\quach\\OneDrive\\Workspace\\DNET\\Bai9\\Bai4\\InHoaDon.xaml",
+              "RelativeToolTip": "Bai4\\InHoaDon.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-10T10:41:51.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\quach\\OneDrive\\Workspace\\DNET\\Bai9\\Bai4\\HoaDon.cs",
+              "RelativeDocumentMoniker": "Bai4\\HoaDon.cs",
+              "ToolTip": "C:\\Users\\quach\\OneDrive\\Workspace\\DNET\\Bai9\\Bai4\\HoaDon.cs",
+              "RelativeToolTip": "Bai4\\HoaDon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T15:10:07.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\quach\\OneDrive\\Workspace\\DNET\\Bai9\\Bai4\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Bai4\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\quach\\OneDrive\\Workspace\\DNET\\Bai9\\Bai4\\MainWindow.xaml",
+              "RelativeToolTip": "Bai4\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-09T13:34:42.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\quach\\OneDrive\\Workspace\\DNET\\Bai9\\Bai4\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Bai4\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\quach\\OneDrive\\Workspace\\DNET\\Bai9\\Bai4\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Bai4\\MainWindow.xaml.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAD4v0kAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T13:34:38.818Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

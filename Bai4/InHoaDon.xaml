@@ -1,0 +1,17 @@
+﻿<Window x:Class="Bai4.InHoaDon"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bai4"
+        mc:Ignorable="d"
+        Title="InHoaDon" Height="450" Width="800">
+    <Grid>
+        <StackPanel Margin="20">
+            <TextBlock Text="HÓA ĐƠN THANH TOÁN" FontSize="16" FontWeight="Bold" TextAlignment="Center" Margin="0,0,0,10"/>
+            <TextBlock x:Name="lblName" Text="Khách hàng: " FontSize="14"/>
+            <TextBlock x:Name="lblSpend" Text="Số kW đã dùng: " FontSize="14"/>
+            <TextBlock x:Name="lblTotalPay" Text="Số tiền phải trả: " FontSize="14"/>
+        </StackPanel>
+    </Grid>
+</Window>
